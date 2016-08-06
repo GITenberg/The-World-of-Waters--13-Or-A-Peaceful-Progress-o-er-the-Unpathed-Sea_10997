@@ -1,0 +1,28 @@
+_repo: The-World-of-Waters--13-Or-A-Peaceful-Progress-o-er-the-Unpathed-Sea_10997
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Osborne, David, Mrs. (Fanny)
+    aliases:
+    - Osbourne, Fanny, Mrs.
+    - Osborne, Fanny, Mrs.
+    - Osbourne, Mrs. David
+    - Osborne, Mrs. David
+    gutenberg_agent_id: '4332'
+    url: http://www.gutenberg.org/2009/agents/4332
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geography -- Juvenile literature'
+- !lcsh 'Voyages and travels -- Juvenile literature'
+- !lcc 'G'
+- GITenberg
+title: "The World of Waters\r\nOr, A Peaceful Progress o'er the Unpathed Sea"
+url: http://www.gutenberg.org/ebooks/10997
